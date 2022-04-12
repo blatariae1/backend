@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blatariae1/backend.git",
+  "author": "Eugenio Nunes <eugeniocarvalhon@gmail.com>",
+  "license": "MIT"
+}
