@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/blatariae1/backend.git",
   "author": "Eugenio Nunes <eugeniocarvalhon@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
