@@ -1,11 +1,18 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/blatariae1/backend.git",
   "author": "Eugenio Nunes <eugeniocarvalhon@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
